@@ -1,0 +1,9 @@
+# Lentor Modern
+
+> Lentor Modern — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/lentormodern/
+
+## Pages
+
+- [Lentor Modern](https://singaporenewproperty.github.io/lentormodern/): Lentor Modern property information.
